@@ -36,7 +36,7 @@ You can import your transactions using an Excel file. Here’s the required form
 
 Below are screenshots showing how the dashboard works:
 
-<img width="598" height="338" alt="image" src="https://github.com/user-attachments/assets/92b3946c-aad1-4e36-a09c-e85f0c99fc87" />
+<img width="589" height="334" alt="image" src="https://github.com/user-attachments/assets/3b688188-b876-45f6-ae17-4e8378385f6c" />
 
 
 
